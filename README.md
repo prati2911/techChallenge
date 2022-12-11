@@ -1,7 +1,7 @@
 # techChallenge
 Technical Challenge AWS
 
-Challenge1:
+# Challenge1:
 
 A 3-tier environment is a common setup. Use a tool of your choosing/familiarity create these
 resources on a cloud environment (Azure/AWS/GCP). Please remember we will not be judged
@@ -15,7 +15,7 @@ on the outcome but more focusing on the approach, style and reproducibility.
 
 ![Three Tier Application Architechture](Three_Tier_App_Arch.png)
 
-Challenge2:
+# Challenge2:
 
 We need to write code that will query the meta data of an instance within AWS or Azure or GCP
 and provide a json formatted output.
@@ -62,7 +62,7 @@ Run whichever script you need:
  python3 get_metadata.py
  python3 get_key.py
 
-Challenge3:
+# Challenge3:
 
 We have a nested object. We would like a function where you pass in the object and a key and
 get back the value.
