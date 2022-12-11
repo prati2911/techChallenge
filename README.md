@@ -35,7 +35,7 @@ SSH into the instance
 
 Install Python 3 and git on your instance 
 
- sudo yum install python3 git
+ #### sudo yum install python3 git
 
 Clone this repository
 
