@@ -33,23 +33,23 @@ Create an EC2 Linux instance on AWS
 
 SSH into the instance
 
-Install Python 3 and git on your instance 
+#### Install Python 3 and git on your instance 
 
- #### sudo yum install python3 git
+ sudo yum install python3 git
 
-Clone this repository
+#### Clone this repository
 
  git clone https://github.com/bluprince13/aws-metadata-json
 
-Install pipenv
+#### Install pipenv
 
  sudo pip3 install pipenv
 
-Open the repository on your instance
+#### Open the repository on your instance
 
  cd aws-metadata-json
 
-Install project dependancies
+#### Install project dependancies
 
  pipenv install
 
