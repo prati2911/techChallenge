@@ -57,7 +57,7 @@ SSH into the instance
 
 Open the src folder
 
- cd aws-metadata-json/src
+ cd techChallenge/src
 
 # Run whichever script you need:
 
